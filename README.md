@@ -14,5 +14,5 @@ comigo.
 ### Algoritmos presentes no repositório:
 
 * Sistemas de equações lineares: Regra de Cramer
-  * - [ ] Algoritmo
-  * - [ ] Fundamentação teórica
+  * - [x] Algoritmo
+  * - [x] Fundamentação teórica
