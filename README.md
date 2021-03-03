@@ -1,2 +1,18 @@
-# Numerical-methods
-This repository is intended to store the algorithms developed in the discipline of numerical computing at the Federal University of Ceará
+# Numerical methods :computer: 
+
+Este repositório tem como objetivo armazenar os algoritmos desenvolvidos na disciplina de computação numérica da Universidade Federal do Ceará.
+
+Os códigos estão em notebooks, especificamente notebooks jupyter (.ipynb), que além de possuirem os códigos **python** contam com uma base teórica que justifica os
+algoritmos apresentados. O conteúdo teórico está escrito em português.
+
+Todos os algoritmos foram desenvolvidos por mim, um estudante de graduação, então se você encontrar algum erro ou tiver alguma sugestão de otimização, entre em contato
+comigo.
+
+[![Instagram Badge](https://img.shields.io/badge/-belipefarros-2980B9?style=flat-square&labelColor=2980B9&logo=Instagram&logoColor=white&link=https://www.instagram.com/belipefarros/)](https://www.instagram.com/belipefarros/)
+[![Gmail Badge](https://img.shields.io/badge/-felipebarros.engh@gmail.com-2980B9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebarros.engh@gmail.com)](mailto:felipebarros.engh@gmail.com)
+
+### Algoritmos presentes no repositório:
+
+* Sistemas de equações lineares: Regra de Cramer
+  * - [ ] Algoritmo
+  * - [ ] Fundamentação teórica
