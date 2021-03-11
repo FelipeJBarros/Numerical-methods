@@ -16,3 +16,6 @@ comigo.
 * Sistemas de equações lineares: Regra de Cramer
   * - [x] Algoritmo
   * - [x] Fundamentação teórica
+* Sistemas de equações lineares: Eliminação de Gauss
+  * - [x] Algoritmo
+  * - [x] Fundamentação teórica
