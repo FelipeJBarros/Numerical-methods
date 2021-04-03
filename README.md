@@ -16,3 +16,10 @@ comigo.
 * Sistemas de equações lineares: Regra de Cramer
   * - [x] Algoritmo
   * - [x] Fundamentação teórica
+* Sistemas de equações lineares: Eliminação de Gauss
+  * - [x] Algoritmo
+  * - [x] Fundamentação teórica
+
+### Referências bibliográficas:
+
+- GILAT, Amos e SUBRAMANIAM, Vish. **Métodos Numéricos Para Engenheiros E Cientistas**. Bookman Companhia Ed, 2008.
