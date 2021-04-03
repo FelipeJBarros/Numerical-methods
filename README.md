@@ -19,6 +19,15 @@ comigo.
 * Sistemas de equações lineares: Eliminação de Gauss
   * - [x] Algoritmo
   * - [x] Fundamentação teórica
+* Sistemas de equações lineares: Eliminação de Gauss-Jordan
+  * - [x] Algoritmo
+  * - [x] Fundamentação teórica
+* Sistemas de equações lineares: Decomposição LU
+  * - [x] Algoritmo
+  * - [x] Fundamentação teórica
+* Sistemas de equações lineares: Método de Jacobi e Gauss-Seidel
+  * - [x] Algoritmo
+  * - [x] Fundamentação teórica
 
 ### Referências bibliográficas:
 
