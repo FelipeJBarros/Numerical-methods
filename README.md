@@ -31,7 +31,7 @@ comigo.
 * Ajuste de curvas: Regressão linear e regressão polinominal de 2º ordem
   * - [x] Algoritmo
   * - [x] Fundamentação teórica
-* Ajuste de curvas: Interpolação de Lagrande e interpolação de Newton
+* Ajuste de curvas: Interpolação de Lagrange e interpolação de Newton
   * - [x] Algoritmo
   * - [ ] Fundamentação teórica
 
